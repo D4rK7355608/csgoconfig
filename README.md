@@ -1,12 +1,13 @@
 # CS:GO Performance Boost Config
 
-- ╔╦╦╦═╦╗╔═╦═╦══╦═╗
-- ║║║║╩╣╚╣═╣║║║║║╩╣
-- ╚══╩═╩═╩═╩═╩╩╩╩═╝
+- ╔╦╦╦═╦╗╔═╦═╦══╦═╗ -
+- ║║║║╩╣╚╣═╣║║║║║╩╣ -
+- ╚══╩═╩═╩═╩═╩╩╩╩═╝ -
 
 # A simple configuration to make CS:GO faster and more eazy to play made by D4rK!
 
-#Instalation process:
+# Instalation process:
+
 - Download this repostory;
 - Extract ZIP file;
 - Open your CS:GO instalation folder (maybe is "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\")
