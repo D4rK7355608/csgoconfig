@@ -1,8 +1,8 @@
 # CS:GO Performance Boost Config
 
-- ╔╦╦╦═╦╗╔═╦═╦══╦═╗ -
-- ║║║║╩╣╚╣═╣║║║║║╩╣ -
-- ╚══╩═╩═╩═╩═╩╩╩╩═╝ -
+- ╔╦╦╦═╦╗╔═╦═╦══╦═╗
+- ║║║║╩╣╚╣═╣║║║║║╩╣
+- ╚══╩═╩═╩═╩═╩╩╩╩═╝
 
 # A simple configuration to make CS:GO faster and more eazy to play made by D4rK!
 
