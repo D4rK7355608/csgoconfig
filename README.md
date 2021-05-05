@@ -1,10 +1,18 @@
-# CS:GO Performance Config
+# CS:GO Performance Boost Config
 
 - ╔╦╦╦═╦╗╔═╦═╦══╦═╗
 - ║║║║╩╣╚╣═╣║║║║║╩╣
 - ╚══╩═╩═╩═╩═╩╩╩╩═╝
 
-# A simple CS:GO configuration to make game faster and eazy to play made by D4rK!
+# A simple configuration to make CS:GO faster and more eazy to play made by D4rK!
+
+#Instalation process:
+- Download this repostory;
+- Extract ZIP file;
+- Open your CS:GO instalation folder (maybe is "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\")
+- Drag "csgo" folder in "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\";
+- Add in launch options "+exec autoexec" (you have a template here);
+- Enjoy!!!
 
 [<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/youtube.png"
     alt="YouTube"
@@ -22,10 +30,6 @@
     alt="PayPall"
     height="90">](https://gamejolt.com/@D4rK_S-A-D)
     
-
-
-Known bugs:
-- You tell me XD.
 
 __WHY YOU READ THIS? GO AND PLAY!__
 
