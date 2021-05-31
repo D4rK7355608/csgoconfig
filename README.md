@@ -36,6 +36,12 @@ __WHY YOU READ THIS? GO AND PLAY!__
 
 Changelog:
 
+Version 1.6:
+- Fixed README.md;
+- New jumpduck space bind;
+- Unbindall command removed and replaced with bind "i" "unbindall";
+- cl_cmdrate+cl_updaterate now is on 64.
+ 
 Version 1.5.4:
 - GitHub public release;
 - Some improvements here & there.
