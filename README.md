@@ -8,7 +8,7 @@
 
 # Instalation process:
 
-- Download this repostory;
+- Download this repository;
 - Extract ZIP file;
 - Open your CS:GO instalation folder (maybe is "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\")
 - Drag "csgo" folder in "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\";
