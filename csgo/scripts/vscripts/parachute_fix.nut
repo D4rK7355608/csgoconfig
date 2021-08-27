@@ -1,7 +1,6 @@
 cachet <- null;
 while(cachet = Entities.FindByClassname(cachet, "predicted_viewmodel")) 
 {
-
 	cachet.PrecacheModel("models/props_survival/dronegun/dronegun.mdl");
 	cachet.PrecacheModel("models/props_survival/drone/br_drone.mdl");
 	cachet.PrecacheModel("models/props_survival/parachute/chute.mdl");
@@ -20,6 +19,4 @@ while(cachet = Entities.FindByClassname(cachet, "predicted_viewmodel"))
 	cachet.PrecacheModel("models/weapons/v_parachute.mdl");
 	cachet.PrecacheModel("models/props_survival/briefcase/briefcase.mdl");
 	SendToConsole("play survival/buy_item_01");
-	ScriptPrintMessageChatAll("D4rK script successfully added!");
-
 }
