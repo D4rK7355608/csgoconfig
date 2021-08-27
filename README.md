@@ -36,6 +36,11 @@ __WHY YOU READ THIS? GO AND PLAY!__
 
 Changelog:
 
+Version 2.0:
+- New repository;
+- Simplified everything;
+- Removed some commands to make more customizable for user;
+
 Version 1.6:
 - Fixed README.md;
 - New jumpduck space bind;
