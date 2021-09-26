@@ -36,6 +36,10 @@ __WHY YOU READ THIS? GO AND PLAY!__
 
 Changelog:
 
+Version 2.1:
+- Removed 'mp_drop_grenade_enable "1"' form all executables;
+- Fixed README.md.
+
 Version 2.0:
 - New repository;
 - Simplified everything;
