@@ -12,7 +12,7 @@
 - Extract ZIP file;
 - Open your CS:GO instalation folder (maybe is "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\")
 - Drag "csgo" folder in "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\";
-- Add in launch options "+exec autoexec" (you have a template here);
+- Add in launch options "+exec autoexec" (you have a template [here](https://raw.githubusercontent.com/D4rK7355608/csgoconfig/main/Set%20Launch%20Options.txt));
 - Enjoy!!!
 
 [<img src="https://github.com/D4rK7355608/com.d4rk.cleaner/blob/master/screenshots/badges/youtube.png"
